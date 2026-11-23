@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- 1. Couleur de fond (Bleu marine mta3 el bordure mta3 Shamshoon) -->
+	<item android:drawable="@color/splash_background" />
+
+	<!-- 2. El Logo m7atout fel wost bilgdé -->
+	<item>
+		<bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_logo" />
+	</item>
+</layer-list>
